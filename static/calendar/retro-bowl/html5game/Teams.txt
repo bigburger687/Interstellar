@@ -21,7 +21,7 @@
 19	Washington	Washington	1	0	$7c0008	$7c0008	$febe26	$7c0008	WAS	2	2	0	0	0	Case K	C.K.	0	0	0	0	0	0	0	0	0	0	0	0	43	13	0
 20	Arizona	Arizona	1	1	$ffffff	$b10a3d	$ffffff	$b10a3d	ARI	5	6	0	0	0	Kyler M	K.M.	0	0	0	0	0	0	0	0	0	0	0	1	9	0	1
 21	Los Angeles R	L.A. (R)	1	1	$002a5c	$233b7f	$ffc20e	$233b7f	LAR	7	7	0	0	0	Jared G	J.G.	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0
-22	San Francisco	San Fran.	1	1	$b3995d	$aa0000	$b3995d	$ffffff	S.F	9	9	0	0	0	Jimmy G	J.G.	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0
+22	best ever best evwe.	1	1	$b3995d	$aa0000	$b3995d	$ffffff	S.F	9	9	0	0	0	Jimmy G	J.G.	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0
 23	Seattle	Seattle	1	1	$0b1320	$0b1320	$0b1320	$5faf05	SEA	7	8	0	0	0	Russ W	R.W.	0	0	0	0	0	0	0	0	0	0	0	0	37	5	1
 24	Chicago	Chicago	1	2	$1a3c54	$1a3c54	$ffffff	$1a3c54	CHI	8	3	0	0	0	Mitch T	M.T.	0	0	0	0	0	0	0	0	0	0	0	0	38	35	1
 25	Detroit	Detroit	1	2	$bcbdbd	$ffffff	$006298	$bcbdbd	DET	5	6	0	0	0	Matt S	M.S.	0	0	0	0	0	0	0	0	0	0	0	2	39	32	0
